@@ -1,7 +1,5 @@
 # SRD poster draft
 ## Introduction
-### Background
-
 Artificial intelligence applications have been developed extensively in recent years.
 Among those, one pivotal area is autopilot (Liu et al., 2019).
 
@@ -29,11 +27,9 @@ Hector使用高频率的雷达硬件避开了里程计的使用，但雷达成�
 
 姿势识别
 根据mediapipe库返回的手指关节位置，计算相机画面中手指第一节指节与第二节指节的夹角，判断手指屈伸。可以此快速识别简单手势。混淆矩阵念图
-#图图
+# 图 图
 
 
 ## Conclusion
 对于低成本的小型化泛用设备来说，使用cartographer算法的单片机系统足以胜任，如果系统能确保在平坦较小室内环境运行，也可以采用Gmapping算法。hector算法并不适用于低成本系统。
-### 小型化民用设备。。。
-### 新的操控方式与识别。。。
-~~~~
+新的操控方式与识别。。。
